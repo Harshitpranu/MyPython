@@ -1,6 +1,5 @@
 import random
-n = random.randint(0,6)
-print(n)
+n = random.randint(0,10)
 k=n
 for i in range(5):
     a = int(input('Enter Number: '))
